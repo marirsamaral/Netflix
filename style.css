@@ -19,6 +19,8 @@ img.imglogo {
     border-radius: 20px;
 }
 
-.enviar > button {
+.enviar > a > button {
     font-size: 23px;
+    width: 300px;
 }
+
